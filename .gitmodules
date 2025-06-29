@@ -1,0 +1,3 @@
+[submodule "GCP-with-gitlab"]
+	path = GCP-with-gitlab
+	url = https://gitlab.com/sinadvdgroup/gcp-with-gitlab
